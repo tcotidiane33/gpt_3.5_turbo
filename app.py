@@ -5,7 +5,9 @@ import openai
 app = Flask(__name__)
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
+
+# new APICHATGPT  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
 
 
 # Define the default route to return the index.html file
