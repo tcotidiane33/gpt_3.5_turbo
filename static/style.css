@@ -17,28 +17,34 @@ body {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
-    height: 800px;
-
+  height: 50vh;
+    overflow: inherit;
 }
 
 .card {
-  height: 800px;
+/*  height: 20vh;*/
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  background: rgba(55, 55, 255, 0.05);
+  backdrop-filter: blur(10px);
+}
+
+.chat-box {
+  overflow: auto;
+  height: 45vh;
+  padding: 10px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
-}
 
-.chat-box {
-/*  height: 350px;*/
-  overflow: auto;
-  padding: 10px;
   
+}
+.card .card__content{
+    overflow: auto !important;
 }
 .card .card__top {
 /*  min-height: 155px;*/
@@ -79,7 +85,6 @@ body {
   border-radius: 10px;
   background: rgba(255, 25, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
 }
 
 .user-message {
@@ -91,7 +96,6 @@ body {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
  
 }
 
@@ -103,7 +107,6 @@ body {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
  
 }
 
@@ -130,6 +133,10 @@ body {
   height: 50px;
 }
 
+textarea .form-control{
+      height: auto;
+    font-size: larger;
+}
 /*===========================================*/
 
 
@@ -162,7 +169,6 @@ body {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
-  overflow: hidden;
 }
 .black-theme .card .card__top {
 /*  height: 155px;*/
@@ -175,7 +181,7 @@ body {
 }
 .black-theme .card .card__top .profile__photo {
   width: 130px;
-  height: 130px;
+  height: 150px;
   position: absolute;
   bottom: -60px;
   left: 50%;

@@ -1,0 +1,63 @@
+[
+  {
+    "message": "Bonjour",
+    "content": "Bienvenue chez Orange ! Comment puis-je vous aider aujourd'hui ?"
+  },
+  {
+    "message": "Je souhaite souscrire à un forfait mobile",
+    "content": "C'est un plaisir de vous accompagner dans le choix de votre forfait mobile chez Orange. Nous avons une large gamme d'options adaptées à vos besoins. N'hésitez pas à me poser des questions ou à me donner des détails supplémentaires pour que je puisse vous aider davantage."
+  },
+  {
+    "message": "Je rencontre un problème avec ma connexion Internet",
+    "content": "Je suis là pour résoudre vos problèmes de connexion Internet. Pouvez-vous me fournir plus de détails sur le problème que vous rencontrez ? Avez-vous essayé de redémarrer votre routeur ?"
+  },
+  {
+    "message": "Quels sont les avantages d'être client Orange ?",
+    "content": "En tant que client Orange, vous bénéficiez de nombreux avantages exclusifs. Cela comprend un service client de qualité, des offres spéciales, des programmes de fidélité et bien plus encore. Nous sommes déterminés à vous offrir la meilleure expérience possible."
+  },
+  {
+    "message": "Je souhaite obtenir de l'aide pour configurer ma messagerie vocale",
+    "content": "Je serai ravi de vous aider à configurer votre messagerie vocale. Pouvez-vous me fournir votre numéro de téléphone afin que je puisse vous guider étape par étape ?"
+  },
+  {
+    "message": "J'ai des questions concernant les offres de télévision d'Orange",
+    "content": "Je suis là pour répondre à toutes vos questions concernant nos offres de télévision. Que souhaitez-vous savoir en particulier ? Nous proposons une variété de chaînes, des services de streaming et des fonctionnalités exclusives pour rendre votre expérience de visionnage encore plus agréable."
+  },
+  {
+    "message": "Je suis intéressé(e) par les services de domotique d'Orange",
+    "content": "Les services de domotique d'Orange peuvent transformer votre maison en un espace intelligent et connecté. Nous offrons des solutions pour la sécurité, l'énergie, le contrôle à distance et bien plus encore. Dites-moi ce qui vous intéresse le plus et je vous donnerai tous les détails nécessaires."
+  },
+  {
+    "message": "Comment puis-je contacter le service client d'Orange ?",
+    "content": "Notre service client est disponible pour vous aider du lundi au vendredi, de 8h à 20h, et le samedi de 9h à 17h. Vous pouvez nous contacter par téléphone au [numéro de téléphone du service client] ou par e-mail à [adresse e-mail du service client]. Nous sommes là pour répondre à toutes vos questions et préoccupations."
+  },
+  {
+    "message": "Comment puis-je vérifier ma consommation de données mobiles ?",
+    "content": "Pour vérifier votre consommation de données mobiles, vous pouvez vous connecter à votre compte client sur notre site web ou utiliser notre application mobile. Vous y trouverez toutes les informations détaillées sur votre consommation actuelle, ainsi que des outils pour gérer et contrôler votre utilisation de données."
+  },
+  {
+    "message": "Comment configurer ma connexion Wi-Fi à la maison ?",
+    "content": "La configuration de votre connexion Wi-Fi à la maison est simple. Vous pouvez suivre ces étapes : 1. Branchez votre routeur à votre box Internet. 2. Allumez le routeur et attendez que les voyants indiquent une connexion stable. 3. Recherchez le réseau Wi-Fi dans les paramètres de votre appareil et connectez-vous en utilisant le nom du réseau (SSID) et le mot de passe fournis avec votre équipement. Si vous rencontrez des difficultés, n'hésitez pas à nous contacter et nous vous guiderons à travers le processus."
+  },
+  {
+    "message": "Quels sont les tarifs des appels internationaux ?",
+    "content": "Nous proposons différents tarifs pour les appels internationaux en fonction de la destination. Vous pouvez consulter notre site web ou contacter notre service client pour obtenir les tarifs les plus récents. Nous offrons également des forfaits spéciaux pour les appels internationaux fréquents. N'hésitez pas à nous demander des détails supplémentaires sur les tarifs qui vous intéressent."
+  },
+  {
+    "message": "Comment puis-je changer mon forfait mobile actuel ?",
+    "content": "Si vous souhaitez changer votre forfait mobile actuel, vous pouvez le faire en vous connectant à votre compte client sur notre site web ou en contactant notre service client. Nous serons ravis de vous aider à choisir le forfait qui correspond le mieux à vos besoins, que ce soit en termes de données, d'appels ou de services supplémentaires."
+  },
+  {
+    "message": "Comment configurer mon réseau Wi-Fi ?",
+    "content": "Pour configurer votre réseau Wi-Fi, vous devez suivre les étapes suivantes : 1. Branchez votre routeur à votre modem ou votre box Internet. 2. Accédez aux paramètres de votre routeur en utilisant une adresse IP spécifique (par exemple, 192.168.1.1) et connectez-vous en utilisant le nom d'utilisateur et le mot de passe fournis avec votre équipement. 3. Configurez le nom du réseau (SSID) et le mot de passe pour sécuriser votre connexion. 4. Personnalisez les paramètres avancés selon vos besoins, tels que le filtrage MAC, la qualité de service (QoS) ou le contrôle parental. 5. Enregistrez les paramètres et redémarrez votre routeur si nécessaire. Votre réseau Wi-Fi est maintenant configuré et prêt à être utilisé."
+  },
+  {
+    "message": "Comment configurer un LAN (Local Area Network) ?",
+    "content": "La configuration d'un LAN (Local Area Network) peut varier en fonction de vos besoins spécifiques, mais voici les étapes de base : 1. Connectez vos appareils (ordinateurs, imprimantes, etc.) à un commutateur ou un routeur. 2. Assurez-vous que chaque appareil a une adresse IP unique dans le même sous-réseau. 3. Définissez les paramètres de partage de fichiers et d'imprimantes sur les appareils si nécessaire. 4. Configurez les règles de pare-feu pour sécuriser votre LAN. 5. Testez la connectivité entre les appareils en effectuant des ping ou en accédant à des ressources partagées. Votre LAN est maintenant configuré et vous pouvez partager des ressources et des données entre les appareils connectés."
+  },
+  {
+    "message": "Comment configurer un VLAN (Virtual Local Area Network) ?",
+    "content": "La configuration d'un VLAN (Virtual Local Area Network) dépend du matériel réseau utilisé, mais voici les étapes générales : 1. Accédez à l'interface de gestion de votre commutateur ou routeur qui prend en charge les VLANs. 2. Créez un VLAN en spécifiant un ID unique et un nom. 3. Associez les ports physiques aux VLANs en les ajoutant aux groupes VLAN appropriés. 4. Configurez les paramètres de VLAN supplémentaires, tels que les règles de sécurité, la qualité de service (QoS) ou le routage inter-VLAN si nécessaire. 5. Testez la connectivité entre les appareils appartenant à différents VLANs en effectuant des ping ou en accédant à des ressources partagées. Votre VLAN est maintenant configuré et les appareils dans des VLANs différents peuvent être isolés ou interconnectés selon vos paramètres."
+  }
+
+]

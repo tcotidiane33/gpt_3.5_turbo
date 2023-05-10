@@ -30,7 +30,8 @@
       <!-- Chat messages will be added here dynamically -->
     </div>
     <div class="form-group mt-1 ">
-      <textarea class="form-control " rows="3" placeholder="Ecrivez votre message ici !" id="message-input"></textarea>
+      <textarea class="form-control " style="    height: auto;
+    font-size: larger;" rows="3" placeholder="Ecrivez votre message ici !" id="message-input"></textarea>
       <button type="button" class=" btn-lg active btn-black btn-outline-danger" id="send-btn">Envoyer</button>
     </div>
     
@@ -70,14 +71,6 @@ function highlightAll() {
       chatBox.scrollTop = chatBox.scrollHeight;
     }
 
-
-        // window.addEventListener('keydown', function(e) {
-        //   if (e.which === 13) {
-        //     addMessage();
-        //     e.preventDefault();
-        //     return false;
-        //   }
-        // });
 
     function sendMessage() {
       const message = messageInput.value.trim();
